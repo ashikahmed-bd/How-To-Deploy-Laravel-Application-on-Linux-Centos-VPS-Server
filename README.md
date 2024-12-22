@@ -1,9 +1,9 @@
 # How-To-Deploy-Laravel-Application-on-Linux-Centos-VPS-Server
 
 
-Deploying a Laravel application on a Linux CentOS VPS involves several steps, including installing required software, configuring your server, and deploying the application. Here's a detailed guide:
+**Deploying a Laravel application on a Linux CentOS VPS involves several steps, including installing required software, configuring your server, and deploying the application. Here's a detailed guide:**
 
-1. Update and Secure Your Server
+>1. Update and Secure Your Server
 Update the system:
 bash
 Copy code
