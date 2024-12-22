@@ -1,5 +1,20 @@
 # How-To-Deploy-Laravel-Application-on-Linux-Centos-VPS-Server
 
+# Deploy Laravel 11 Application on CentOS VPS
+
+## Prerequisites
+1. A CentOS VPS server with root or sudo privileges.
+2. A Laravel 11 application ready to be deployed.
+3. Domain pointing to the server (optional but recommended).
+4. Basic knowledge of SSH and server management.
+
+---
+
+## Step 1: Update the Server
+```bash
+sudo yum update -y
+sudo yum install -y epel-release
+
 
 **Deploying a Laravel application on a Linux CentOS VPS involves several steps, including installing required software, configuring your server, and deploying the application. Here's a detailed guide:**
 
